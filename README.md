@@ -1,4 +1,4 @@
-###Getting of Random Data
+####Getting of Random Data:
 ####Name, Surname, Image, text and displaying data in the form of card
 ##DEMO APP(http://endurable-cart.surge.sh/)
 
