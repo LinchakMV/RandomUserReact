@@ -8,8 +8,9 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ##To start developing please use next commands:
 
-###npm install
-###npm start
+npm install
+
+npm start
 
 ##How to create production build
 
