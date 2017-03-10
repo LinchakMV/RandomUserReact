@@ -28,7 +28,7 @@ export class UserList extends Component {
       .then( data =>{
         this.setState({
           text_out:data,
-          fetching:false
+          // fetching:false
         })
       })
   }
