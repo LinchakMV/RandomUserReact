@@ -1,0 +1,29 @@
+.user-item-container {
+  margin: 0px 50px 0px 20px;  
+  cursor: pointer;
+  transition: 1.4s;
+  width:500px;
+  background: lightgray;
+  border:2px solid grey;
+}
+
+.user-item-container:hover {
+  background-color: darkgray;
+}
+.user-item-container div{
+  text-align: center;
+  font-size: 1.5em;
+  padding: 20px;
+}
+#fullName{
+  text-transform: capitalize;
+}
+.user-item-container img{
+  border-radius: 50%;
+  border:4px solid white;
+  margin-top: 10px;
+}
+#biography{
+  font-size: 1em;
+  font-style: italic;
+}
