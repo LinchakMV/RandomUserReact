@@ -1,3 +1,5 @@
+###Getting of Random Data
+####Name, Surname, Image, text and displaying data in the form of card
 ##DEMO APP(http://endurable-cart.surge.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
