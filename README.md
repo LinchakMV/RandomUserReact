@@ -16,5 +16,4 @@ npm start
 
 ##How to create production build
 
-Please run 
-npm run build
+Please run: npm run build
